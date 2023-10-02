@@ -1,0 +1,8 @@
+cloner un répertoire : "git clone URL_du_dépot"
+
+Les 3 commandes de PUSH :
+-"git add ."
+
+- git commit -m "message"
+
+- git push origin nom_de_notre_branche
