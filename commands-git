@@ -6,3 +6,6 @@ Les 3 commandes de PUSH :
 - git commit -m "message"
 
 - git push origin nom_de_notre_branche
+
+commande qui permet de pull :
+- git pull
